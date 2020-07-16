@@ -3,7 +3,7 @@
 </h1>
 
 <h4 align="center">
-  🚀 Projeto para estudos desenvolvido na Semana OmniStack 10.0
+  🚀 Study project developed at OmniStack 10.0 Week
 </h4>
 
 <br>
