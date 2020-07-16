@@ -31,7 +31,7 @@ You can download the project layout in `.sketch` format through [this link](.git
 
 To open the file in `.sketch` format on any operating system use the tool [Figma](https://figma.com).
 
-## 🤔 Como contribuir
+## 🤔 How to contribute
 
 - Make a fork;
 - Create a branck with your feature: git checkout -b my-feature;
